@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="delete_note">Delete note</string>
+    <string name="save_note">Save note</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="no_notes">No notes yet</string>
+    <string name="no_notes_subtitle">Tap + to create your first note</string>
+    <string name="no_search_results">No notes found</string>
+    <string name="delete_confirmation">Delete this note?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+</resources>
